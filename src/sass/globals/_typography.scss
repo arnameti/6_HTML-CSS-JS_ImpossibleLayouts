@@ -19,14 +19,14 @@ a:visited {
   text-decoration: none;
 }
 
-.heading1,
-.heading2,
-.heading3 {
-  font-weight: 700;
-  line-height: 1.1;
-  margin-top: 0;
-  margin-bottom: u.rem(20);
-}
+// .heading1,
+// .heading2,
+// .heading3 {
+//   font-weight: 700;
+//   line-height: 1.1;
+//   margin-top: 0;
+//   margin-bottom: u.rem(20);
+// }
 
 // .heading-1 {
 //   font-size: clamp(u.rem(28), u.rem(16) + 2vw, u.rem(40));
@@ -37,6 +37,5 @@ a:visited {
 // }
 
 p {
-  margin-top: 0;
-  margin-bottom: u.rem(20);
+  margin: 0;
 }
